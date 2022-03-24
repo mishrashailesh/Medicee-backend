@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Siddharth2253/Medicee-backend/issues"
   },
-  "homepage": "https://github.com/Siddharth2253/Medicee-backend#readme"
+  "homepage": "https://github.com/Siddharth2253/Medicee-backend#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
